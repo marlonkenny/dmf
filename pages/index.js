@@ -29,13 +29,13 @@ export default function Home() {
           Quesnel River Farm
         </h1>
 
+        <h3>For sale by owner: Small Ranch in the spectacular Quesnel River Valley - $850,000</h3>
+
         <hr className={styles.hardRule} />
 
         <Box className={styles.hero}>
           <GalleryImage priority src="/images/Sheepriver.jpg" height={330} width={1000} alt="Summer View" />
         </Box>
-
-        <h3>For sale by owner: Small Ranch in the spectacular Quesnel River Valley - $850,000</h3>
         
         <div className={styles.description}>
           <div className={styles.descriptionBody}>
@@ -53,7 +53,7 @@ export default function Home() {
         </div>
 
         <Box className={styles.hero}>
-          <Image priority src="/images/DMFhouse.jpg" height={450} width={600} alt="Summer View" />
+          <GalleryImage priority src="/images/DMFhouse.jpg" height={450} width={600} alt="Summer View" />
         </Box>
 
         <div className={styles.description}>
