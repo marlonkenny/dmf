@@ -115,7 +115,7 @@ export default function Home() {
             <li>DL 12883 – 143.75 ac</li>
           </ul>
           <Box align="center">
-            <Image priority src="/images/dmf-map.jpeg" height={583} width={800} alt="Summer View" />
+            <GalleryImage priority src="/images/dmf-map.jpeg" height={583} width={800} alt="Summer View" />
           </Box>
         </div>
         <div>

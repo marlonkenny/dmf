@@ -28,9 +28,13 @@ const photos = [{
   caption: "Bunkhouse 1",
   thumbnail: "/images/cabin.jpeg",
 }, {
-  photo: "/images/Bunkhouse2.jpeg",
+  photo: "/images/Bunkhouse2.jpg",
   caption: "Bunkhouse 2",
-  thumbnail: "/images/Bunkhouse2.jpeg",
+  thumbnail: "/images/Bunkhouse2.jpg",
+}, {
+  photo: "/images/dmf-map.jpeg",
+  caption: "Property map",
+  thumbnail: "/images/dmf-map.jpeg",
 }];
 
 export default function FirstPost() {
