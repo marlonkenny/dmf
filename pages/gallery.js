@@ -96,6 +96,10 @@ const photos = [{
   caption: "Garden 2",
   thumbnail: "/images/garden2.jpg",
 }, {
+  photo: "/images/garden3.jpeg",
+  caption: "Garden 3",
+  thumbnail: "/images/garden3.jpeg",
+}, {
   photo: "/images/hay.jpg",
   caption: "Hay Bales",
   thumbnail: "/images/hay.jpg",
