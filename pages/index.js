@@ -4,7 +4,8 @@ import Image from 'next/image'
 import Link from 'next/link'
 import { Carousel, Box, Grid, Image as GrommetImage, Main } from 'grommet'
 
-import Nav from '../components/nav'
+import Nav from '../components/Nav'
+import ContactForm from '../components/ContactForm'
 
 import styles from '../styles/Home.module.css'
 
@@ -123,10 +124,8 @@ export default function Home() {
         </div>
       </main>
 
-      <footer className={styles.footer}>
-        <div id="Contact">
-          Contact Form
-        </div>
+      <footer id="Contact" className={styles.footer}>
+        <ContactForm />
       </footer>
     </Main>
   )
