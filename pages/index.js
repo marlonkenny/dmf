@@ -41,11 +41,12 @@ export default function Home() {
         <div className={styles.description}>
           <div className={styles.descriptionBody}>
             <p>
-              463-acre south-facing ranch, 50 minutes from Quesnel on the Quesnel River. Two houses, barn, shop, walk-in cooler and numerous outbuildings. 2600 ft of riverfront on the Quesnel River. 67 acres irrigated hay land and 100 acres improved pasture—fenced and cross-fenced. 30 hp pump plus mainline and sprinkler lines. Water rights on the Quesnel River for 160 acre/ft. Good internet and cell reception.
+              463-acre south-facing ranch, 50 minutes from Quesnel on the Quesnel River. Two homes, barn, shop, walk-in cooler and numerous outbuildings. 2600 ft of riverfront on the Quesnel River. 67 acres irrigated hay land and 100 acres improved pasture—fenced and cross-fenced. 30 hp pump plus mainline and sprinkler lines. Water rights on the Quesnel River for 160 acre/ft. Good internet and cell reception.
             </p>
             <ul>
               <li>Unique and beautiful river valley with productive micro-climate</li>
               <li>Currently set-up for sheep and market vegetables but could reasonably provide for 50 cow/calf pairs</li>
+              <li>Class e slaughter license to legally operate a small scale abbatoir</li>
               <li>Large productive mixed-aged forest, ideal for a managed woodlot; could supplement mixed farming or ranching</li>
               <li>Quiet and peaceful with very little traffic – dead-end road</li>
               <li>Lots of underused agricultural potential in this valley</li>
@@ -70,8 +71,8 @@ export default function Home() {
           <div className={styles.descriptionBody}>
             <h3>Structures:</h3>
             <ol>
-              <li>House 1: 4451 Garvin Rd – 1632 sq ft 2 story wood-frame built in 1963. 4-bedroom, one bathroom. Stucco exterior. Solid wood and wood pellet heat. Duroid and metal roof. Large open ranch-style kitchen with large attached pantry.</li>
-              <li>House 2: 4399 Garvin Rd – 950 sq ft with part basement for utilities. Straw bale construction covered in stucco outside, plaster inside. 2-bedroom, one bathroom. Wood and electric heat. Cedar shake roof</li>
+              <li>Home 1: 4451 Garvin Rd – 1632 sq ft 2 story wood-frame built in 1963. 4-bedroom, one bathroom. Stucco exterior. Solid wood and wood pellet heat. Duroid and metal roof. Large open ranch-style kitchen with large attached pantry.</li>
+              <li>Home 2: 4399 Garvin Rd – 950 sq ft with part basement for utilities. Straw bale construction covered in stucco outside, plaster inside. 2-bedroom, one bathroom. Wood and electric heat. Cedar shake roof</li>
               <li>Timber-frame barn with board siding, metal roof, built in 1976. 57x54 ft. Very versatile design; lots of usable space for livestock and hay storage.</li>
               <li>Wood-frame shop with board siding, metal roof, concrete floor, built in 1985. 40x39 ft - 12ft ceiling</li>
               <li>Bunkhouse 1 – log building with metal roof. Includes shower and small kitchen. 23x15 ft</li>
