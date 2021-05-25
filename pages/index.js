@@ -30,7 +30,7 @@ export default function Home() {
           Quesnel River Farm
         </h1>
 
-        <h3>For sale by owner: Small Ranch in the spectacular Quesnel River Valley - $850,000</h3>
+        <h3>For sale by owner: Small Ranch in the spectacular Quesnel River Valley - $900,000</h3>
 
         <hr className={styles.hardRule} />
 
