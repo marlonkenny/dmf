@@ -108,6 +108,10 @@ const photos = [{
   caption: "Sheep",
   thumbnail: "/images/sheep.jpg",
 }, {
+  photo: "/images/sheep2.jpg",
+  caption: "Sheep 2",
+  thumbnail: "/images/sheep2.jpg",
+}, {
   photo: "/images/dmf-map.jpeg",
   caption: "Property map",
   thumbnail: "/images/dmf-map.jpeg",
