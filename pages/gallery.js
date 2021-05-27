@@ -48,10 +48,6 @@ const photos = [{
   caption: "Cooler side",
   thumbnail: "/images/Cooler2.jpg",
 }, {
-  photo: "/images/greenhouse1.jpg",
-  caption: "Greenhouse exterior",
-  thumbnail: "/images/greenhouse1.jpg",
-}, {
   photo: "/images/greenhouse2.jpg",
   caption: "Greenhouse interior",
   thumbnail: "/images/greenhouse2.jpg",
@@ -88,6 +84,26 @@ const photos = [{
   caption: "Bunkhouse 3",
   thumbnail: "/images/Bunkhouse3.jpg",
 }, {
+  photo: "/images/Loafing-shed.jpeg",
+  caption: "Loafing Shed",
+  thumbnail: "/images/Loafing-shed.jpeg",
+}, {
+  photo: "/images/Packingshed1.jpeg",
+  caption: "Packing Shed",
+  thumbnail: "/images/Packingshed1.jpeg",
+}, {
+  photo: "/images/Packingshed2.jpeg",
+  caption: "Packing Shed",
+  thumbnail: "/images/Packingshed2.jpeg",
+}, {
+  photo: "/images/Pump1.jpeg",
+  caption: "Pump",
+  thumbnail: "/images/Pump1.jpeg",
+}, {
+  photo: "/images/Pump2.jpeg",
+  caption: "Pump",
+  thumbnail: "/images/Pump2.jpeg",
+}, {
   photo: "/images/garden1.jpg",
   caption: "Garden 1",
   thumbnail: "/images/garden1.jpg",
@@ -100,9 +116,21 @@ const photos = [{
   caption: "Garden 3",
   thumbnail: "/images/garden3.jpeg",
 }, {
+  photo: "/images/garden4.jpeg",
+  caption: "Garden 4",
+  thumbnail: "/images/garden4.jpeg",
+}, {
+  photo: "/images/garden5.jpeg",
+  caption: "Garden 5",
+  thumbnail: "/images/garden5.jpeg",
+}, {
   photo: "/images/hay.jpg",
   caption: "Hay Bales",
   thumbnail: "/images/hay.jpg",
+}, {
+  photo: "/images/hay2.jpeg",
+  caption: "Hay Bales",
+  thumbnail: "/images/hay2.jpeg",
 }, {
   photo: "/images/sheep.jpg",
   caption: "Sheep",
@@ -111,6 +139,10 @@ const photos = [{
   photo: "/images/sheep2.jpg",
   caption: "Sheep 2",
   thumbnail: "/images/sheep2.jpg",
+}, {
+  photo: "/images/River2.jpeg",
+  caption: "Quesnel River",
+  thumbnail: "/images/River2.jpeg",
 }, {
   photo: "/images/dmf-map.jpeg",
   caption: "Property map",
