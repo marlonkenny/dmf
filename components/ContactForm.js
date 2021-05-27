@@ -64,7 +64,6 @@ export default function ContactForm() {
   return (
     <div className={styles.wrapper}>
       <h1>Contact us for more information</h1>
-      <hr />
       <Form onSubmit={handleOnSubmit}>
         <FormField name="_replyto" htmlFor="email" label="Email">
           <TextInput
