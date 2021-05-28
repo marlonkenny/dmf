@@ -4,7 +4,7 @@ import styles from '../styles/Nav.module.css'
 
 export default function Nav() {
   return (
-    <Box direction="row" justify="center" width="xxlarge" className={styles.nav}>
+    <Box direction="row" justify="center" className={styles.nav}>
       <a href="/#Home">Home</a>
       <Link href="/gallery">Gallery</Link>
       <a href="#Map">Map</a>
