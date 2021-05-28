@@ -84,6 +84,14 @@ const photos = [{
   caption: "Bunkhouse 3",
   thumbnail: "/images/Bunkhouse3.jpg",
 }, {
+  photo: "/images/Rootcellar1.jpeg",
+  caption: "Rootcellar beneath Bunkhouse 3",
+  thumbnail: "/images/Rootcellar1.jpeg",
+}, {
+  photo: "/images/Rootcellar2.jpeg",
+  caption: "Rootcellar beneath Bunkhouse 3",
+  thumbnail: "/images/Rootcellar2.jpeg",
+}, {
   photo: "/images/Loafing-shed.jpeg",
   caption: "Loafing Shed",
   thumbnail: "/images/Loafing-shed.jpeg",
@@ -143,6 +151,14 @@ const photos = [{
   photo: "/images/River2.jpeg",
   caption: "Quesnel River",
   thumbnail: "/images/River2.jpeg",
+}, {
+  photo: "/images/Salmon.jpeg",
+  caption: "Salmon in the river",
+  thumbnail: "/images/Salmon.jpeg",
+}, {
+  photo: "/images/Top-of-the-world.jpeg",
+  caption: "View from the mountain",
+  thumbnail: "/images/Top-of-the-world.jpeg",
 }, {
   photo: "/images/dmf-map.jpeg",
   caption: "Property map",
