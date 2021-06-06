@@ -92,6 +92,14 @@ const photos = [{
   caption: "Rootcellar beneath Bunkhouse 3",
   thumbnail: "/images/Rootcellar2.jpeg",
 }, {
+  photo: "/images/Shop.jpeg",
+  caption: "Shop exterior",
+  thumbnail: "/images/Shop.jpeg",
+}, {
+  photo: "/images/Shopinside.jpeg",
+  caption: "Shop interior",
+  thumbnail: "/images/Shopinside.jpeg",
+}, {
   photo: "/images/Loafing-shed.jpeg",
   caption: "Loafing Shed",
   thumbnail: "/images/Loafing-shed.jpeg",
