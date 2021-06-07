@@ -66,6 +66,8 @@ export default function Home() {
         </div>
 
         <hr className={styles.hardRule} />
+        <iframe width="800" height="448" src="https://www.youtube.com/embed/F3PwMymAk7U" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+        <hr className={styles.hardRule} />
 
         <div className={styles.description}>
           <div className={styles.descriptionBody}>
