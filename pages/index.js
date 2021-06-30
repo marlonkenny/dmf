@@ -26,6 +26,9 @@ export default function Home() {
 
       <main id="Home" className={styles.main}>
         <Nav />
+        <div className={styles.banner}>
+          <h2>We've accepted an offer as of June 30th</h2>
+        </div>
         <h1 className={styles.title}>
           Quesnel River Farm
         </h1>

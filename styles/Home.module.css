@@ -25,6 +25,15 @@
   margin: 16px;
 }
 
+.banner h2{
+  border: 1px solid lightgray;
+  padding: 15px 200px;
+  width: 100%;
+  background: green;
+  color: white;
+  border-radius: 7px;
+}
+
 .hardRule {
   background: #a8a8a8;
   height: 1px;
